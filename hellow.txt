@@ -6,7 +6,10 @@
      online edit
      return 0;
 
+
 ZZZZZZZ upravy vo vetve master ZZZZ
+=======
+XXXXXXXXXXxxxxxxXXXXXXoooooooo
 
 
  }
